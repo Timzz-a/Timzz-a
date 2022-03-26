@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Timzz-a
-- 👀 I’m interested in frontend and backend development
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning python and HTML
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me https://linkedin.com/in/timilehin-sanni
 
