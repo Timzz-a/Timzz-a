@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Timzz-a
+- 👋 Hi, I’m Timilehin Sanni
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning python and HTML
 - 💞️ I’m looking to collaborate on open source projects
